@@ -1,1 +1,1 @@
-# loyalty-webhook-api
+# Loyalty Webhook API
